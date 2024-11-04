@@ -1,6 +1,6 @@
 ![Bem-vindos ao meu GitHub!](https://user-images.githubusercontent.com/84139776/137939687-d2d64b2b-6b89-4e9f-9c7b-028670d4f23b.png)
 
-<h1> Opa! Eu sou o Hugo 👋</h1>
+<h1>Eu sou o Hugo 👋</h1>
 
 ---
 
