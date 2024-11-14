@@ -5,13 +5,13 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu_linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/seu_instagram" target="_blank">
+  <a href="https://www.instagram.com/hugo.magri" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
