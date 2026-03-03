@@ -1,4 +1,4 @@
-<h1>Eu sou o Hugo 👋</h1>
+<h1>Eu sou o Hugo Mariutti</h1>
 
 ---
 
