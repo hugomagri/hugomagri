@@ -30,19 +30,9 @@
 
 ---
 
-## Projetos em Destaque
+## Perfil
 
-🔨 **Em breve:** Projetos relacionados a **Desenvolvimento de Interfaces Web** e **Aplicações Full Stack** com foco em experiência do usuário e acessibilidade.
-
-📈 **Foco atual:** Explorando o impacto de soluções tecnológicas na **Geração de Trabalho e Renda**, através de empreendimentos sociais e projetos sustentáveis.
-
----
-
-## Vamos Colaborar?
-
-Se você gosta de tecnologia, desenvolvimento web ou projetos sociais, ficarei feliz em colaborar e compartilhar ideias! Entre em contato por uma das minhas redes sociais ou envie um e-mail!
-
----
+Nesse espaço, você pode acompanhar um pouco da minha trajetória no Ensino Médio Técnico em Desenvolvimento de Sistemas na FIAP, onde desenvolvi alguns projetos educacionais, e agora meu bacharelado em Engenharia Mecatrônica na FIAP.
 
 <div align="center">
   Feito com 💻 e ☕ por Hugo
