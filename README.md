@@ -3,11 +3,8 @@
 ---
 
 <div align="center">
-  <a href="www.linkedin.com/in/hugomariutti" target="_blank">
+  <a href="https://www.linkedin.com/in/hugomariutti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/hugo.magri" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
@@ -15,8 +12,8 @@
 
 ## Sobre mim
 
-- 👨‍💻 **Técnico em desenvolvimento web.
-- 🎓 **Estudante de Eng. Mecatrônica - FIAP.
+- 👨‍💻 **Técnico em desenvolvimento web.**
+- 🎓 **Estudante de Eng. Mecatrônica - FIAP.**
 - 🌍 Projetos de **impacto social** e **automação robótica**.
 
 ---
